@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background-image: url("img/andrei-mike-0-ofl-yfm-ukk-i-unsplash@2x.png");
+  background-repeat:no-repeat;
+  max-width:1440;
+  max-height:100vh;
+  margin: 0px;
+  justify-content:center;
+  padding:0;
+}
+
+
+.container {
+  display:flex;
+  background-repeat:no-repeat;
+  background-color: rgba(45, 53, 76, 0.7);
+  height: 100vh;
+  margin-top:0;
+  margin:0 auto;
+  padding:0;
+  justify-content:center;
+  align-items:center;
+  max-width:1440;
+}
+
+.profile-wrapper {
+    margin-top: 216px;
+    margin-bottom:276px;
+    justify-content:center;
+    align-content:center;
+    border-radius: 30px;
+    box-shadow: 0 2px 24px 0 rgba(0, 0, 0, 0.5);
+    background-image: linear-gradient(-45deg, #7310aa, #329aff);
+    padding-top: 60px;
+    padding-right:0;
+    padding-left:0;
+  }
+
+  .images {
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+    margin: 0 auto;
+    border: solid 2px white;
+    padding-left:0;
+}
+
+
+h1 {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.25;
+    letter-spacing: 2px;
+    text-align: center;
+    justify-content:center;
+    padding-top:40px;
+    color: white;
+    margin-right:0;
+    padding-left:0;
+}
+
+p {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+    margin-top:0;
+    margin-right:0;
+    padding-left:0;
+}
+
+.email {
+    margin-top: 40px;
+    margin-right:0;
+    padding-left:0;
+}
+
+.wixsite {
+    margin-top: 15px;
+    margin-right:0;
+    padding-left:0;
+}
+
+.social-box {
+  display:flex;
+  flex-direction:row;
+  background-color: white;
+  justify-content:space-around;
+  border-radius: 0 0 30px 30px;
+  margin-top: 40px;
+  margin-left:0;
+}
+
+.images-social {
+    display:flex;
+    height:26px;
+    width:26px;
+    flex-direction:row;
+    justify-content:space-around;
+    margin-left:20px;
+    margin-right:20px;
+    width: 450px;
+    height:80px;
+    border-radius: 0 0 30px 30px;
+}
+
+.copy {
+  max-width: 1440px;
+  margin:0;
+  max-height:1024px;
+}
+
+
